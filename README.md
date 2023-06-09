@@ -1,1 +1,3 @@
-# devextreme_with_requirejs_examples
+# DevExtreme Examples
+
+A set of sample applications that will help you get started with DevExtreme.
