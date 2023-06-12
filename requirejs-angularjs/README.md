@@ -6,12 +6,12 @@ This project demonstrates how to use DevExtreme widgets loading only modules wit
 
 1. Clone the repository
  ``` text
- git clone https://github.com/devexpress/devextreme-examples.git
+ git clone https://github.com/DevExpress-Examples/devextreme-requirejs-examples.git
  ```
 
 2. Go to the project folder
  ``` text
- cd devextreme-examples/requirejs-angularjs
+ cd requirejs-angularjs
  ```
 
 3. Install the required modules. This command will also convert the DevExtreme package to the AMD module format by using the npm postinstall script.
