@@ -1,6 +1,6 @@
 # DevExtreme with RequireJS and jQuery example
 
-This project demonstrates how to use DevExtreme widgets loading only modules with the required functionality. This demo shows the dxButton widget with the alert dialog as an example. Here, the [jQuery](http://jquery.com/) approach is used. The example uses [RequireJS](http://requirejs.org/) to load scripts on demand.
+This [jQuery](http://jquery.com/) example displays DevExtreme widgets loading only required modules. The application contains a button (a [dxButton](https://js.devexpress.com/Documentation/ApiReference/UI_Components/dxButton/) widget). When you click this button, an [alert dialog](https://js.devexpress.com/Documentation/ApiReference/Common/Utils/ui/dialog/#alertmessageHtml_title) appears. The example uses [RequireJS](http://requirejs.org/) to load scripts on demand.
 
 ## Getting Started
 
