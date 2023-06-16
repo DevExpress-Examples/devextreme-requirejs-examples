@@ -4,7 +4,7 @@
 <!-- default badges end -->
 # DevExtreme with RequireJS
 
-This repository contains a set of examples that show how to use [RequireJS](http://requirejs.org/) with different approaches: [jQuery](http://jquery.com/), [AngularJS](https://angularjs.org/) and [Knockout](http://knockoutjs.com/). Each example is an application with a [dxButton](https://js.devexpress.com/Documentation/ApiReference/UI_Components/dxButton/) widget. When you click this button, an [alert dialog](https://js.devexpress.com/Documentation/ApiReference/Common/Utils/ui/dialog/#alertmessageHtml_title) appears. All applications require Node.js and npm to install the [DevExtreme](http://js.devexpress.com/) package and its dependencies.
+This repository contains a set of examples that show how to use [RequireJS](http://requirejs.org/) with different approaches: [jQuery](http://jquery.com/), [AngularJS](https://angularjs.org/), and [Knockout](http://knockoutjs.com/). Each example is an application with a [dxButton](https://js.devexpress.com/Documentation/ApiReference/UI_Components/dxButton/) widget. When you click this button, an [alert dialog](https://js.devexpress.com/Documentation/ApiReference/Common/Utils/ui/dialog/#alertmessageHtml_title) appears. All applications require Node.js and npm to install the [DevExtreme](http://js.devexpress.com/) package and its dependencies.
 
 Used Technologies:      | Example Name:
 ----------------------- | -------------------------------------------

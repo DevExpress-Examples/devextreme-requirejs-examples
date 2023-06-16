@@ -1,17 +1,17 @@
 # DevExtreme with RequireJS and Knockout example
 
-This project demonstrates how to use DevExtreme widgets loading only modules with the required functionality. This demo shows the dxButton widget with the alert dialog as an example. Here, the [Knockout](http://knockoutjs.com/) approach is used. The example uses [RequireJS](http://requirejs.org/) to load scripts on demand.
+This project demonstrates how to use DevExtreme widgets that load only modules with the required functionality. This demo shows the dxButton widget with the alert dialog as an example. Here, the [Knockout](http://knockoutjs.com/) approach is used. The example uses [RequireJS](http://requirejs.org/) to load scripts on demand.
 
-This [Knockout](http://knockoutjs.com/) example displays DevExtreme widgets loading only required modules. The application contains a button (a [dxButton](https://js.devexpress.com/Documentation/ApiReference/UI_Components/dxButton/) widget). When you click this button, an [alert dialog](https://js.devexpress.com/Documentation/ApiReference/Common/Utils/ui/dialog/#alertmessageHtml_title) appears. The example uses [RequireJS](http://requirejs.org/) to load scripts on demand.
+This [Knockout](http://knockoutjs.com/) example displays DevExtreme widgets that load only the required modules. The application contains a button (a [dxButton](https://js.devexpress.com/Documentation/ApiReference/UI_Components/dxButton/) widget). When you click this button, an [alert dialog](https://js.devexpress.com/Documentation/ApiReference/Common/Utils/ui/dialog/#alertmessageHtml_title) appears. The example uses [RequireJS](http://requirejs.org/) to load scripts on demand.
 
 ## Getting Started
 
-1. Clone the repository
+1. Clone the repository.
  ``` text
  git clone https://github.com/DevExpress-Examples/devextreme-requirejs-examples.git
  ```
 
-2. Go to the project folder
+2. Go to the project folder.
  ``` text
  cd requirejs-knockout
  ```

@@ -1,15 +1,15 @@
 # DevExtreme with RequireJS and AngularJS example
 
-This [AngularJS](https://angularjs.org/) example displays DevExtreme widgets loading only required modules. The application contains a button (a [dxButton](https://js.devexpress.com/Documentation/ApiReference/UI_Components/dxButton/) widget). When you click this button, an [alert dialog](https://js.devexpress.com/Documentation/ApiReference/Common/Utils/ui/dialog/#alertmessageHtml_title) appears. The example uses [RequireJS](http://requirejs.org/) to load scripts on demand.
+This [AngularJS](https://angularjs.org/) example displays DevExtreme widgets that load only the required modules. The application contains a button (a [dxButton](https://js.devexpress.com/Documentation/ApiReference/UI_Components/dxButton/) widget). When you click this button, an [alert dialog](https://js.devexpress.com/Documentation/ApiReference/Common/Utils/ui/dialog/#alertmessageHtml_title) appears. The example uses [RequireJS](http://requirejs.org/) to load scripts on demand.
 
 ## Getting Started
 
-1. Clone the repository
+1. Clone the repository.
  ``` text
  git clone https://github.com/DevExpress-Examples/devextreme-requirejs-examples.git
  ```
 
-2. Go to the project folder
+2. Go to the project folder.
  ``` text
  cd requirejs-angularjs
  ```
