@@ -19,7 +19,7 @@ This [jQuery](http://jquery.com/) example displays DevExtreme widgets that load 
  npm install
  ```
 
-4. Open the `index.html` file in your browser
+4. Open the `index.html` file in your browser.
 
 ## Resources
 

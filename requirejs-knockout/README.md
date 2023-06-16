@@ -21,7 +21,7 @@ This [Knockout](http://knockoutjs.com/) example displays DevExtreme widgets that
  npm install
  ```
 
-4. Open the `index.html` file in your browser
+4. Open the `index.html` file in your browser.
 
 ## Resources
 

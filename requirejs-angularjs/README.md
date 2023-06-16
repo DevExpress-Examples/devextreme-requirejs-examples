@@ -19,7 +19,7 @@ This [AngularJS](https://angularjs.org/) example displays DevExtreme widgets tha
  npm install
  ```
 
-4. Open the `index.html` file in your browser
+4. Open the `index.html` file in your browser.
 
 ## Resources
 
