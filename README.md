@@ -14,7 +14,7 @@ RequireJS with jQuery   | [requirejs-jquery](requirejs-jquery/)
 
 ## Documentation
 
-- [Use RequireJS](https://js.devexpress.com/Documentation/Guide/Common/Modularity/Link_Modules/#Use_RequireJS)
+- [Use RequireJS](https://js.devexpress.com/jQuery/Documentation/Guide/Common/Modularity/Link_Modules/#Use_RequireJS)
 
 ## More Examples
 
