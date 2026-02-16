@@ -25,7 +25,7 @@ RequireJS with jQuery   | [requirejs-jquery](requirejs-jquery/)
 - [DevExtreme with JSPM](https://github.com/DevExpress-Examples/devextreme-jspm-examples)
 - [DevExtreme with Vite - How to create a bundle with DevExtreme Vue components](https://github.com/DevExpress-Examples/devextreme-vite-vue-bundling)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=devextreme-requirejs-examples&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=devextreme-requirejs-examples&~~~was_helpful=no)
 
