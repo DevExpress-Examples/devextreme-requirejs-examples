@@ -85,6 +85,7 @@ function Process-Project {
     try {
         Write-Output "`nRemoving node_modules and generated AMD modules: $pwd"
         Remove-Item -Recurse -Force node_modules -ErrorAction SilentlyContinue
+        Remove-Item -Force package-lock.json -ErrorAction SilentlyContinue
         Remove-Item -Recurse -Force devextreme_amd -ErrorAction SilentlyContinue
         Remove-Item -Recurse -Force '@devextreme' -ErrorAction SilentlyContinue
         Install-Packages -folderName $folderName -packages $packages -buildVersion $buildVersion
